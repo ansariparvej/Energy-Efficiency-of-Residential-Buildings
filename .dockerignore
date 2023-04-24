@@ -1,0 +1,8 @@
+# venv
+# notebooks
+logs
+data_set
+# .git
+deployment-steps.txt
+Dockerrun.aws.json
+README.md

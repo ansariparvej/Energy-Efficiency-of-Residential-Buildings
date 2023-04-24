@@ -1,0 +1,30 @@
+Cooling Load:
+  drift_status: false
+  p_value: 0.43942607758163116
+Glazing Area:
+  drift_status: false
+  p_value: 0.6837759339282511
+Glazing Area Distribution:
+  drift_status: false
+  p_value: 0.9996113938638733
+Heating Load:
+  drift_status: false
+  p_value: 0.6780127832026617
+Orientation:
+  drift_status: false
+  p_value: 0.9147070857725236
+Overall Height:
+  drift_status: false
+  p_value: 0.9988597137604677
+Relative Compactness:
+  drift_status: false
+  p_value: 0.9978769478714827
+Roof Area:
+  drift_status: false
+  p_value: 0.9988597137604677
+Surface Area:
+  drift_status: false
+  p_value: 0.9978769478714827
+Wall Area:
+  drift_status: false
+  p_value: 0.9999635536722238
