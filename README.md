@@ -76,7 +76,7 @@ conda activate Energy_Efficiency_of_Residential_Buildings
 pip3 install -r requirements.txt
 ```
 
-### Step 4 - Run the application server [Using Fast API]
+### Step 4 - Run the Training application server [Using Fast API]
 ```bash
 python main.py
 ```
@@ -87,7 +87,7 @@ http://localhost:8080/train
 
 ```
 
-### Step 6 - Run the application server [Using Fast API]
+### Step 6 - Run the Prediction application server [Using Streamlit]
 ```bash
 streamlit run app.py
 ```
