@@ -101,7 +101,3 @@ http://localhost:8501
 ## For Application Deployment, REFER: >> Dployment_Steps.pdf file.
 
 
-Application Link:
-
-http://energyefficiencyofresidentialbuildin-e-2.eba-vypd6sib.ap-south-1.elasticbeanstalk.com/
-
